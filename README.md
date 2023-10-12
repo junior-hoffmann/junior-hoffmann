@@ -1,8 +1,7 @@
 ### Oi, me chamo Junior Hoffmann 👋
 
-- 👨‍🎓 Cursando Ciência da Computação.
-- 🔭 Atualmente estou desenvolvendo um app para monitorar investimentos.
-- 💜 Estou me aprofundando em Flutter.
+- 👨‍🎓 Cursando Gestão Financeira.
+- 🔭 Atualmente estou desenvolvendo um app para avaliar investimentos.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Junior-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
