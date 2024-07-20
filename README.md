@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Cursando Sistemas de Informação.
 - 🔭 Atualmente estou desenvolvendo um app para gestão de ordens de serviço.
--  Aprendendo sobre Swift.
+-  Aprendendo Swift.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Junior-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
