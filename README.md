@@ -1,11 +1,10 @@
 ### Oi, me chamo Junior Hoffmann 👋
 
-- 👨‍🎓 Cursando Administração.
+- 👨‍🎓 Cursando Gestão Financeira.
 - 🔭 Atualmente estou desenvolvendo um app para gestão de ordens de serviço.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Junior-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
-  <img align="center" alt="Junior-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="Junior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Junior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Junior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
